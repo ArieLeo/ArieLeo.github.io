@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-URP_Stable_Sandbox-0.1";
 const contentToCache = [
-    "Build/URP_Test.loader.js",
-    "Build/URP_Test.framework.js.gz",
-    "Build/URP_Test.data.gz",
-    "Build/URP_Test.wasm.gz",
+    "Build/urp_test.loader.js",
+    "Build/urp_test.framework.js.unityweb",
+    "Build/urp_test.data.unityweb",
+    "Build/urp_test.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
