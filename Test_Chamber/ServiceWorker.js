@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-HPP_Unity-0.1";
 const contentToCache = [
     "Build/Test_Chamber.loader.js",
-    "Build/Test_Chamber.framework.js.gz",
-    "Build/Test_Chamber.data.gz",
-    "Build/Test_Chamber.wasm.gz",
+    "Build/Test_Chamber.framework.js.unityweb",
+    "Build/Test_Chamber.data.unityweb",
+    "Build/Test_Chamber.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
