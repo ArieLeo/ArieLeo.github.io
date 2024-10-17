@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-URP_Adreno_Empty-0.1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/adreno-empty.loader.js",
+    "Build/adreno-empty.framework.js",
+    "Build/adreno-empty.data",
+    "Build/adreno-empty.wasm",
     "TemplateData/style.css"
 
 ];
